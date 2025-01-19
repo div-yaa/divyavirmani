@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Divya, a Software Engineer from Singapore. I'm currently exploring diverse areas to discover my passion and determine the next exciting chapter in my professional journey.
 
 <!--
 **divyavirmani/divyavirmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
